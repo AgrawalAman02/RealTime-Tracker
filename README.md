@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   [https://github.com/AgrawalAman02/RealTime-Tracker.git]
+   https://github.com/AgrawalAman02/RealTime-Tracker.git
 
 2. Navigate into the project directory:
    ```bash
